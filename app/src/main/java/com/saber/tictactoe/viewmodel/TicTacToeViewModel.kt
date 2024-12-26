@@ -66,4 +66,12 @@ class TicTacToeViewModel : ViewModel() {
         }
 
     }
+
+    fun resetBoard() {
+        _board.value = Array(3) { Array(3) { "" } }
+        _winner.value?.let {
+            _currentPlayer.value = it
+        }
+        _winner.value = null
+    }
 }

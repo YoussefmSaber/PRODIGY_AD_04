@@ -39,6 +39,14 @@ To get started with this project, follow these steps:
 - The game will notify you of a winner or if there’s a draw.
 - You can restart the game by tapping on the grid after the game ends.
 
+## Screenshots
+
+| Start Screen                                                    | X player win                                                       | O player win                                                       |
+|-----------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| <img src="src/Start-screen.png" alt="Screenshot 1" width="200"> | <img src="src/X-win-condition.png" alt="Screenshot 2" width="200"> | <img src="src/O-win-condition.png" alt="Screenshot 3" width="200"> |
+
+---
+
 ## Contributing
 
 Feel free to contribute to this project! Here’s how you can help:

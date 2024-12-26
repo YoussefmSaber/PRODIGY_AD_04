@@ -18,3 +18,5 @@ val `0-Player-Background` = Color(0xFFffe6e5)
 
 val `Cell-Border` = Color(0xFFadadad)
 val `Cell-Background` = Color(0xFFf0f0f0)
+
+val `Board-Background` = Color(0xFFfaedcd)
